@@ -84,7 +84,7 @@ class Main:
         self.configGUI['background'] = '#202124'
 
     def about(self):
-        url = "https://github.com/Eisblume-2000/Quantum-Tunneling-Security-Reloaded"
+        url = "https://github.com/Eisblume-2000/CESPC"
         webbrowser.open(url)
 
     def close(self):
