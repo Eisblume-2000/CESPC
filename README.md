@@ -41,6 +41,11 @@ Von Eisblume2000 geschrieben (DC: eisblume2000 / Eisblume2000#5142)
 * Das Server Team hat mit diesem Programm hier nichts zu tun und kann deshalb kein Support geben, jeder der von mir erwischt wird wie er das Team belästigt wird von mir blockiert und erst recht keine Antwort erhalten
 * Diese Programm ist nicht Anfängerfreundlich, jeder der nicht weiß wie er sein Schematics in seinen Datein finden kann sollte dies tun bevor her mich belästigt.
 
+## TODO
+*Schreiben lernen und Rechtschreibfehler beheben
+*Auto Bugreport System
+*Schematic Subtraktionsmodul
+
 ## Special Thanks to:
 * [Iunius118](https://gist.github.com/Iunius118/989807ba3b6c5b3dfcb3750547951803) dafür das er den Wunderbaren Code erstellt hat um .nbt Datein auszulesen
 * Byspielhaft dafür das er mir geholfen hat
