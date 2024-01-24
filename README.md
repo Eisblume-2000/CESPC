@@ -42,9 +42,9 @@ Von Eisblume2000 geschrieben (DC: eisblume2000 / Eisblume2000#5142)
 * Diese Programm ist nicht Anfängerfreundlich, jeder der nicht weiß wie er sein Schematics in seinen Datein finden kann sollte dies tun bevor her mich belästigt.
 
 ## TODO
-*Schreiben lernen und Rechtschreibfehler beheben
-*Auto Bugreport System
-*Schematic Subtraktionsmodul
+* Schreiben lernen und Rechtschreibfehler beheben
+* Auto Bugreport System
+* Schematic Subtraktionsmodul
 
 ## Special Thanks to:
 * [Iunius118](https://gist.github.com/Iunius118/989807ba3b6c5b3dfcb3750547951803) dafür das er den Wunderbaren Code erstellt hat um .nbt Datein auszulesen
