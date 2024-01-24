@@ -2,12 +2,12 @@
 Schematic Preis Rechner
 Berechnet Automatisch den Wert aller Materialien einer Schematic
 
-##Erklärung
-* Programm ausführen
-* Schematic auswählen
-* Auf "Kalkulation starten" drücken
-* Warten
-* Ergebniss bewundern
+## Erklärung
+ Programm ausführen
+ Schematic auswählen
+ Auf "Kalkulation starten" drücken
+ Warten
+ Ergebniss bewundern
 
 ## Funktionen
 * Preis berechnen
