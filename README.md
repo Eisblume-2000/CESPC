@@ -46,6 +46,9 @@ Von Eisblume2000 geschrieben (DC: eisblume2000 / Eisblume2000#5142)
 * Auto Bugreport System
 * Schematic Subtraktionsmodul
 
+## Bekannte Fehler
+* Infested Blöcke bringen das Programm zum crashen
+
 ## Special Thanks to:
 * [Iunius118](https://gist.github.com/Iunius118/989807ba3b6c5b3dfcb3750547951803) dafür das er den Wunderbaren Code erstellt hat um .nbt Datein auszulesen
 * Byspielhaft dafür das er mir geholfen hat
